@@ -64,3 +64,5 @@ Description: "Check remote URL configuration"
 Que 22 - git help branch - progress.txt edited on: local machine - command ran on: local machine
 Description: "Get help on git branch"
 
+Que 23 - Created a .gitignore file - progress.txt edited on: local machine - command ran on: local machine
+Description: "Add a .gitignore file" 

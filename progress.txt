@@ -25,3 +25,5 @@ Description: "Pulled the updated version of progress.txt from GitHub"
 Que 9 - git branch feature1 - progress.txt edited on: local machine - command ran on: local machine
 Description: "Created a new branch for a feature"
 
+Que 10 - git checkout feature1 - progress.txt edited on: local machine - command ran on: local machine
+Description: "Switched to the new branch"

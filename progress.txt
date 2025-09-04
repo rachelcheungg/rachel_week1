@@ -38,4 +38,10 @@ Que 13 - git checkout main - progress.txt edited on: local machine - command ran
 Description: "Switched back to the main branch"
 
 Que 14 - git merge feature1 - progress.txt edited on: local machine - command ran on: local machine
-Description: "Merge feature1 into main"
+Description: "Merged feature1 into main"
+
+Que 15 - git push - progress.txt edited on: local machine - command ran on: local machine
+Description: "Pushed the updated main branch to GitHub"
+
+Que 16 - git branch -d feature1 - progress.txt edited on: local machine - command ran on: local machine
+Description: "Deleted the feature branch locally"

@@ -72,3 +72,6 @@ Description: "Added and committed .gitignore file"
 
 Que 25 - git push - progress.txt edited on: local machine - command ran on: local machine
 Description: "Push the updated .gitignore to GitHub"
+
+Que 26 - Network graph screenshot - progress.txt edited on: local machine - command ran on: local machine
+Description: "Screenshotted and added network graph to repo"
